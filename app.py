@@ -12,8 +12,7 @@ This H1B Visa status Prediction app is used to predict into three categories:
 2. Related to the Wage pay Information
 3. Both Employee skillset and wage pay Information
 
- Here, Choose above using the following select options. Also check out his [H1B visa data from github](https://github.com/Technocolabs100/Machine-Learning-Project-Code-TCS47C/blob/main/Paper-Work%20Visa%20Approval.pdf).
-Current model is developed in cooperation with [Technocolabs Team.](https://technocolabs.com/)
+ Here, Choose above using the following select options. 
 """)
 
 # Add all your application here
